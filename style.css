@@ -1,0 +1,32 @@
+body  {
+    font-family: 'ariel', 'helvetica neue', 'helvetica', 'sans-serif';
+    color: #777;
+    background: #777;
+    width: '960px';
+    font-size: '18px'
+}
+
+article  {
+    color: 'ebebeb'
+}
+h1, p  {
+    color:'#777';
+}
+header  {
+    background-color: white;
+    width: 800px;
+    height: 100px;
+    border: 1px solid #777;
+}
+nav  {
+    background-color: white;
+    width: 800px;
+    height: 100px;
+    border: 1px solid #777;
+}
+footer  {
+    background-color: white;
+    width: 800px;
+    height: 100px;
+    border: 1px solid #777;
+}
